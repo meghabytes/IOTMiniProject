@@ -1,5 +1,10 @@
 QuickStart - Simplifying Class Setups 
+
+
 Sumukh Suresh - Meghana M 
+
+
+
 PES2UG21CS555 PES2UG21CS292 
 Teachers often face challenges when they enter a classroom and need to set up their laptops 
 and presentation slides. To streamline this process, we propose an IoT-based automatic 
